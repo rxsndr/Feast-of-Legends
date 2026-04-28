@@ -1,2 +1,2 @@
 # Feast of Legends
-Our Very First Game Project by Flow State Studios.
+Our Very First Game Project by Dudong Corp.
